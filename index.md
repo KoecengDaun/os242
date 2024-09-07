@@ -10,7 +10,7 @@
     <button style="background-color: #FFC0CB; padding: 10px; border-radius: 8px;">🏠 Beranda</button>
   </a>
 
-  <a href="{{ site.baseurl }}/links/" style="text-decoration:none;">
+  <a href="https://koecengdaun.github.io/os242/" style="text-decoration:none;">
     <button style="background-color: #A0E7E5; padding: 10px; border-radius: 8px;">🔗 Tautan</button>
   </a>
 
