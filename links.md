@@ -1,4 +1,6 @@
 ---
+permalink: LINKS/
+---
 ---
 
 <span style="color:#4CAF50; font-weight:bold; font-size:larger;">Selamat datang di Halaman Sistem Operasi Saya!</span>
