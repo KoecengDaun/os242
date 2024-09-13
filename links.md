@@ -80,3 +80,14 @@ permalink: LINKS/
 
 17. [Lebih Banyak Sumber Daya GNU/Linux](https://doit.vlsm.org/039.html)
 -> Sumber daya tambahan untuk belajar GNU/Linux.
+
+<h2 style="color:#4CAF50">MINGGU 02 🚩</h2>
+
+1. [Pengantar Keamanan Komputer](https://www.coursera.org/learn/security-in-computing)
+-> Kursus yang membahas dasar-dasar keamanan komputer, termasuk kriptografi, ancaman jaringan, dan otentikasi pengguna.
+
+2. [Kontrol Akses di Sistem Operasi](https://www.geeksforgeeks.org/access-control-in-operating-system/)
+-> Artikel tentang model kontrol akses, seperti matriks akses dan kontrol berbasis peran.
+
+3. [Fundamental Keamanan Linux](https://linuxconfig.org/essential-linux-security-tips)
+-> Tips penting untuk mengamankan sistem Linux, termasuk penggunaan firewall, izin pengguna, dan enkripsi.
