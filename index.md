@@ -18,7 +18,7 @@
     <button style="background-color: #B4F8C8; padding: 10px; border-radius: 8px;">🔗 GitHub</button>
   </a>
 
-  <a href="https://github.com/KoecengDaun/os242/blob/bb53f0a465e1f4cbfcf7132d2a384ac172838c32/TXT/mylog.txt" target="_blank" style="text-decoration:none;">
+  <a href="https://koecengdaun.github.io/os242/TXT/mylog.txt" target="_blank" style="text-decoration:none;">
     <button style="background-color: #FFAEBC; padding: 10px; border-radius: 8px;">📝 Log Saya</button>
   </a>
 </div>
