@@ -28,48 +28,46 @@ permalink: LINKS/
 ---
 
 # TAUTAN 🔗
-<h2 style="color:#4CAF50">MINGGU 01 🚩</h2>
+# 📚 Kumpulan Referensi Belajar OS
 
-1. [Repositori Demos](https://github.com/os2xx/demos/tree/master/Demos/)
--> Demos untuk memahami konsep OS.
+## 📌 **MINGGU 01**
 
-2. [REVISIT](https://doit.vlsm.org/038.html)
--> Panduan bermanfaat terkait materi OS.
+1. **[REVISIT](https://doit.vlsm.org/038.html)**
+   - Panduan lengkap dan bermanfaat terkait materi Sistem Operasi.
 
-3. [Perintah Dasar Linux](https://youtu.be/CpTfQ-q6MPU)
--> Tutorial cepat tentang perintah dasar Linux.
+2. **[Perintah Dasar Linux](https://youtu.be/CpTfQ-q6MPU)**
+   - Video singkat yang mengajarkan perintah dasar Linux dengan cepat.
 
-4. [Kursus Lengkap Linux](https://youtu.be/wBp0Rb-ZJak)
--> Kursus lengkap Linux dari dasar hingga tingkat lanjut.
+3. **[Kursus Lengkap Linux](https://youtu.be/wBp0Rb-ZJak)**
+   - Tutorial komprehensif Linux, mulai dari dasar hingga tingkat lanjut.
 
-5. [Perintah dasar vi](https://youtu.be/ggSyF1SVFr4)
--> Panduan singkat untuk belajar perintah dasar `vi`.
+4. **[Perintah dasar vi](https://youtu.be/ggSyF1SVFr4)**
+   - Panduan singkat untuk mempelajari editor teks `vi` yang sering digunakan di Linux.
 
-<h2 style="color:#4CAF50">MINGGU 02 🚩</h2>
+## 📌 **MINGGU 02**
 
-1. [Pengantar Keamanan Komputer](https://www.coursera.org/learn/security-in-computing)
--> Kursus yang membahas dasar-dasar keamanan komputer, termasuk kriptografi, ancaman jaringan, dan otentikasi pengguna.
+1. **[Pengantar Keamanan Komputer](https://www.coursera.org/learn/security-in-computing)**
+   - Kursus online yang membahas dasar-dasar keamanan komputer seperti kriptografi, ancaman jaringan, dan autentikasi pengguna.
 
-2. [Kontrol Akses di Sistem Operasi](https://www.geeksforgeeks.org/access-control-in-operating-system/)
--> Artikel tentang model kontrol akses, seperti matriks akses dan kontrol berbasis peran.
+2. **[Kontrol Akses di Sistem Operasi](https://www.geeksforgeeks.org/access-control-in-operating-system/)**
+   - Artikel tentang berbagai model kontrol akses, termasuk matriks akses dan kontrol berbasis peran.
 
-3. [Fundamental Keamanan Linux](https://linuxconfig.org/essential-linux-security-tips)
--> Tips penting untuk mengamankan sistem Linux, termasuk penggunaan firewall, izin pengguna, dan enkripsi.
+3. **[Fundamental Keamanan Linux](https://linuxconfig.org/essential-linux-security-tips)**
+   - Tips penting untuk meningkatkan keamanan sistem Linux Anda, termasuk firewall, izin pengguna, dan enkripsi.
 
-<h2 style="color:#4CAF50">MINGGU 03 🚩</h2>
+## 📌 **MINGGU 03**
 
-1. [Course Slides dan Demos](https://github.com/os2xx/docos/)  
-   -> Repository GitHub yang berisi slide dan demo pembelajaran terkait Sistem Operasi dan File System.
+1. **[Course Slides dan Demos](https://github.com/os2xx/docos/)**
+   - Repository GitHub yang berisi slide dan demo untuk memahami Sistem Operasi dan File System.
 
-2. [Buku Operating System Concepts, Edisi ke-10](https://codex.cs.yale.edu/avi/os-book/OS10/)  
-   -> Buku teks yang membahas konsep dasar sistem operasi, termasuk manajemen file dan sistem berkas.
+2. **[Buku Operating System Concepts, Edisi ke-10](https://codex.cs.yale.edu/avi/os-book/OS10/)**
+   - Buku teks terkenal yang membahas konsep dasar sistem operasi, seperti manajemen file dan sistem berkas.
 
-3. [Materi Minggu 3: File System & FUSE](https://docos.vlsm.org/Slides/os03.pdf)  
-   -> Slide yang menjelaskan tentang File System dan FUSE serta topik-topik seperti operasi file dan struktur direktori.
+3. **[Materi Minggu 3: File System & FUSE](https://docos.vlsm.org/Slides/os03.pdf)**
+   - Slide yang membahas File System dan FUSE, termasuk operasi file dan struktur direktori.
 
-4. [Standar Hierarki File Sistem (FHS)](http://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)  
-   -> Dokumen yang memberikan panduan penempatan file dalam sistem berkas GNU/Linux.
+4. **[Standar Hierarki File Sistem (FHS)](http://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf)**
+   - Panduan penempatan file dalam sistem berkas GNU/Linux menurut standar FHS.
 
-5. [Dokumentasi Linux From Scratch (LFS)](http://www.linuxfromscratch.org/lfs/view/stable/)  
-   -> Referensi untuk membangun sistem Linux dari awal dan memahami file system serta manajemennya secara mendalam.
-
+5. **[Dokumentasi Linux From Scratch (LFS)](http://www.linuxfromscratch.org/lfs/view/stable/)**
+   - Referensi untuk membangun sistem Linux dari awal dan memahami file system serta manajemennya secara mendalam.
