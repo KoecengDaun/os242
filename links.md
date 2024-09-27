@@ -71,3 +71,21 @@ permalink: LINKS/
 
 5. **[Dokumentasi Linux From Scratch (LFS)](http://www.linuxfromscratch.org/lfs/view/stable/)**
    - Referensi untuk membangun sistem Linux dari awal dan memahami file system serta manajemennya secara mendalam.
+
+## 📌 **MINGGU 04**
+
+1. **[C Library - Dynamic Memory Allocation](https://www.cplusplus.com/reference/cstdlib/malloc/)**
+   - Dokumentasi lengkap mengenai fungsi-fungsi manajemen memori dinamis di C, seperti `malloc`, `calloc`, `realloc`, dan `free`. Sangat berguna untuk memahami bagaimana alokasi memori bekerja pada level rendah.
+
+2. **[Shared Libraries in Linux](https://tldp.org/HOWTO/Program-Library-HOWTO/shared-libraries.html)**
+   - Artikel ini menjelaskan tentang pembuatan dan penggunaan shared libraries di Linux, termasuk konsep dynamic linking dan static linking.
+
+3. **[Understanding the Memory Layout of a Linux Process](https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/)**
+   - Panduan mendalam yang menjelaskan tentang layout memori dari sebuah proses Linux, termasuk stack, heap, dan segmen data.
+
+4. **[Pointers and Memory Management in C](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)**
+   - Artikel ini menjelaskan dasar-dasar pointer di C, cara penggunaannya, dan bagaimana memanipulasi alamat memori.
+
+5. **[GitHub - Awesome C/C++](https://github.com/fffaraz/awesome-cpp#memory-management)**
+   - Daftar kurasi dari berbagai sumber daya, tutorial, dan tools untuk pengembangan C/C++, termasuk bagian tentang manajemen memori dan penggunaan pointers.
+
