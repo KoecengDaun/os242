@@ -89,3 +89,20 @@ permalink: LINKS/
 5. **[GitHub - Awesome C/C++](https://github.com/fffaraz/awesome-cpp#memory-management)**
    - Daftar kurasi dari berbagai sumber daya, tutorial, dan tools untuk pengembangan C/C++, termasuk bagian tentang manajemen memori dan penggunaan pointers.
 
+## 📌 **MINGGU 05**
+
+1. **[Demand Paging - GeeksforGeeks](https://www.geeksforgeeks.org/demand-paging-in-operating-system/)**  
+   - Panduan lengkap tentang *demand paging*, cara kerjanya, keuntungan, serta bagaimana *page fault* ditangani.
+
+2. **[Virtual Memory - Silberschatz OS Concepts](https://codex.cs.yale.edu/avi/os-book/OS10/)**  
+   - Sumber dari buku *Operating System Concepts* karya Silberschatz, menjelaskan konsep dasar dan lanjutan tentang memori virtual.
+
+3. **[Algoritma Penggantian Halaman (Page Replacement)](https://www.studytonight.com/operating-system/page-replacement-algorithms)**  
+   - Ulasan mengenai berbagai algoritma penggantian halaman seperti FIFO, LRU, dan Optimal, lengkap dengan kelebihan dan kekurangannya.
+
+4. **[Manajemen Memori di Linux](https://www.kernel.org/doc/html/latest/admin-guide/mm/index.html)**  
+   - Dokumentasi resmi tentang bagaimana Linux menangani manajemen memori, termasuk memori virtual, *page fault*, dan alokasi memori.
+
+5. **[Copy-on-Write dalam Sistem Operasi](https://www.digitalocean.com/community/tutorials/what-is-copy-on-write)**  
+   - Artikel yang menjelaskan konsep *Copy-on-Write (COW)*, teknik penting dalam sistem operasi modern untuk menciptakan proses secara efisien dan manajemen memori.
+
