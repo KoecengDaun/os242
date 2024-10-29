@@ -106,3 +106,19 @@ permalink: LINKS/
 5. **[Copy-on-Write dalam Sistem Operasi](https://www.digitalocean.com/community/tutorials/what-is-copy-on-write)**  
    - Artikel yang menjelaskan konsep *Copy-on-Write (COW)*, teknik penting dalam sistem operasi modern untuk menciptakan proses secara efisien dan manajemen memori.
 
+## 📌 **MINGGU 06**
+
+1. **[Threads dan Konkruensi - IBM Documentation](https://www.ibm.com/docs/en/aix/7.2?topic=programming-threads-concurrency)**
+   - Menyediakan penjelasan mendetail tentang thread dan konkruensi dalam sistem operasi, termasuk siklus hidup thread, sinkronisasi, dan penerapannya dalam kehidupan nyata.
+
+2. **[Kontrol Konkruensi dalam Sistem Operasi - Studytonight](https://www.studytonight.com/operating-system/concurrency-in-operating-system)**
+   - Panduan komprehensif tentang kontrol konkruensi, menyoroti tantangan seperti kondisi balapan (*race condition*) dan cara mengatasinya.
+
+3. **[Pemrograman POSIX Threads (Pthreads) - Tutorial LLNL](https://hpc-tutorials.llnl.gov/posix/)**
+   - Tutorial untuk pemrograman dengan Pthreads, mencakup dasar-dasar, mekanisme sinkronisasi, dan pola umum yang digunakan dalam pemrograman multithreading.
+
+4. **[Fork dan Exec di Linux - GeeksforGeeks](https://www.geeksforgeeks.org/fork-system-call/)**
+   - Artikel yang membahas tentang sistem panggilan *fork()* dan *exec()*, lengkap dengan contoh dan penggunaan umumnya untuk membuat dan mengelola proses di sistem operasi seperti UNIX.
+
+5. **[Sinkronisasi dalam Sistem Operasi - TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_process_synchronization.htm)**
+   - Ikhtisar teknik sinkronisasi seperti semaphore dan mutex, serta pentingnya dalam menangani proses dan thread konkuren.

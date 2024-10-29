@@ -2,6 +2,18 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
+ZCZC W06 10 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W06 50 L15 Assignment #05
+ZCZC W06 10 L14 Assignment #04
+ZCZC W06 20 L13 Assignment #03
+ZCZC W06 10 L12 Assignment #02
+ZCZC W06 50 L11 Assignment #01
+ZCZC W06 30 L05 Quiz related including studying
+ZCZC W06 60 L99 Update link.md
+ZCZC W06 30 L41 TXT/mylog.txt related.
+ZCZC W06 90 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 30 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 60 L99 Doing POP-Quiz
 ZCZC W05 10 L03 GitHub related
 ZCZC W05 30 L05 Quiz related including studying
 ZCZC W05 60 L99 Doing POP-Quiz
