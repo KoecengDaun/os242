@@ -122,3 +122,27 @@ permalink: LINKS/
 
 5. **[Sinkronisasi dalam Sistem Operasi - TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_process_synchronization.htm)**
    - Ikhtisar teknik sinkronisasi seperti semaphore dan mutex, serta pentingnya dalam menangani proses dan thread konkuren.
+
+## 📌 **MINGGU 07**
+
+1. **[Critical Section Problem and Solutions - GeeksforGeeks](https://www.geeksforgeeks.org/g-fact-70/)**
+   - Membahas masalah *critical section* dalam konteks proses konkuren, solusi dengan pendekatan *mutual exclusion*, *progress*, dan *bounded waiting*. Artikel ini juga mengilustrasikan solusi perangkat lunak seperti **Peterson’s Solution** dan **Dekker's Algorithm**.
+
+2. **[Deadlock in Operating Systems - IBM Documentation](https://www.ibm.com/docs/en/zos/2.3.0?topic=concepts-deadlock)**
+   - Menyediakan pemahaman tentang deadlock, kondisi yang menyebabkan deadlock, serta pendekatan umum untuk pencegahan, penghindaran, dan deteksi deadlock. Terdapat pula penjelasan praktis tentang penerapan algoritma seperti *Banker's Algorithm* untuk menghindari deadlock.
+
+3. **[POSIX Thread (Pthread) Synchronization - Lawrence Livermore National Laboratory (LLNL)](https://hpc-tutorials.llnl.gov/posix/)**
+   - Menyediakan tutorial mendalam tentang sinkronisasi thread dengan POSIX, termasuk penggunaan mutex, semaphore, dan kondisi variabel. Tutorial ini mencakup contoh kode dan skenario yang umum digunakan dalam aplikasi multithreading.
+
+4. **[Synchronization Mechanisms in Linux - The Linux Documentation Project](https://www.tldp.org/LDP/lkmpg/2.6/html/x1219.html)**
+   - Memberikan panduan tentang mekanisme sinkronisasi di Linux seperti *spinlocks*, *semaphores*, dan *mutex locks*, serta penggunaannya dalam kernel Linux untuk mengelola proses sinkronisasi antar thread atau proses.
+
+5. **[Introduction to Multithreading and Synchronization - TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_process_synchronization.htm)**
+   - Menyediakan ikhtisar mengenai berbagai teknik sinkronisasi yang digunakan untuk menangani masalah seperti *race conditions* dan *deadlock*. Artikel ini menjelaskan konsep dasar mutex, semaphore, dan solusi konkuren lainnya.
+
+6. **[Reader-Writer Problem and Solutions - Studytonight](https://www.studytonight.com/operating-system/reader-writer-problem)**
+   - Mengulas *reader-writer problem* secara mendalam, termasuk variasi pertama dan kedua, dan membahas solusi untuk mencegah kondisi *starvation*. Artikel ini juga membahas bagaimana kernel sering mengimplementasikan reader-writer locks untuk menangani proses ini.
+
+7. **[Java Concurrency - Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/)**
+   - Dokumentasi resmi dari Oracle yang membahas berbagai fitur sinkronisasi Java, seperti **monitors**, **reentrant locks**, dan **condition variables**. Bermanfaat jika Anda ingin memahami bagaimana bahasa tingkat tinggi seperti Java menangani sinkronisasi dalam aplikasi.
+
