@@ -146,3 +146,27 @@ permalink: LINKS/
 7. **[Java Concurrency - Oracle Documentation](https://docs.oracle.com/javase/tutorial/essential/concurrency/)**
    - Dokumentasi resmi dari Oracle yang membahas berbagai fitur sinkronisasi Java, seperti **monitors**, **reentrant locks**, dan **condition variables**. Bermanfaat jika Anda ingin memahami bagaimana bahasa tingkat tinggi seperti Java menangani sinkronisasi dalam aplikasi.
 
+
+## 📌 **MINGGU 08**
+
+1. **[CPU Scheduling in Operating Systems - GeeksforGeeks](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)**
+   - Membahas konsep dasar penjadwalan CPU, berbagai kriteria penjadwalan, dan algoritma seperti FCFS, SJF, Priority Scheduling, dan Round Robin. Artikel ini juga memberikan contoh implementasi dan skenario penggunaan.
+
+2. **[Linux Kernel Scheduler - The Linux Foundation](https://www.kernel.org/doc/html/latest/scheduler/index.html)**
+   - Dokumentasi tentang cara kerja scheduler dalam kernel Linux, termasuk penjelasan tentang Completely Fair Scheduler (CFS) dan bagaimana Linux menangani penjadwalan di lingkungan multiprosesor.
+
+3. **[Operating System Scheduling Algorithms - Studytonight](https://www.studytonight.com/operating-system/cpu-scheduling-algorithms)**
+   - Penjelasan rinci tentang algoritma penjadwalan, termasuk Shortest Job First (SJF), Priority Scheduling, dan Round Robin. Juga mencakup contoh perhitungan waktu tunggu dan waktu turnaround.
+
+4. **[Real-Time Scheduling - Embedded.com](https://www.embedded.com/real-time-scheduling-basics/)**
+   - Fokus pada penjadwalan sistem real-time, seperti Rate Monotonic Scheduling (RMS) dan Earliest Deadline First (EDF). Artikel ini menjelaskan bagaimana sistem real-time memastikan respons tepat waktu.
+
+5. **[Scheduling in Operating Systems - TutorialsPoint](https://www.tutorialspoint.com/operating_system/os_process_scheduling.htm)**
+   - Ikhtisar konsep penjadwalan proses, kriteria evaluasi, dan algoritma yang umum digunakan. Menyediakan contoh untuk membantu memahami cara kerja setiap algoritma.
+
+6. **[POSIX Thread Scheduling - The Open Group](https://pubs.opengroup.org/onlinepubs/009695399/functions/pthread_setschedparam.html)**
+   - Dokumentasi tentang API POSIX untuk mengatur kebijakan penjadwalan thread, seperti SCHED_FIFO dan SCHED_RR, dengan penjelasan tentang penggunaan dan parameter yang tersedia.
+
+7. **[Evaluating CPU Scheduling Algorithms - ScienceDirect](https://www.sciencedirect.com/topics/computer-science/cpu-scheduling)**
+   - Referensi yang berfokus pada metode evaluasi algoritma penjadwalan menggunakan simulasi dan model deterministik. Membahas metrik seperti waktu respons, throughput, dan efisiensi.
+
