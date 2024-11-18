@@ -23,6 +23,11 @@ permalink: LINKS/
   <a href="https://koecengdaun.github.io/os242/TXT/mylog.txt" target="_blank" style="text-decoration:none;">
     <button style="background-color: #FFAEBC; padding: 10px; border-radius: 8px;">📝 Log Saya</button>
   </a>
+
+  <a href="https://koecengdaun.github.io/os242/TIPS/" style="text-decoration:none;">
+    <button style="background-color: #FFAEBC; padding: 10px; border-radius: 8px;">📚 Tips OS</button>
+  </a>
+
 </div>
 
 ---
@@ -170,3 +175,19 @@ permalink: LINKS/
 7. **[Evaluating CPU Scheduling Algorithms - ScienceDirect](https://www.sciencedirect.com/topics/computer-science/cpu-scheduling)**
    - Referensi yang berfokus pada metode evaluasi algoritma penjadwalan menggunakan simulasi dan model deterministik. Membahas metrik seperti waktu respons, throughput, dan efisiensi.
 
+## 📌 **MINGGU 09**
+
+1. **[Manajemen Memori dalam Sistem Operasi](https://e_cahya.staff.gunadarma.ac.id/Downloads/files/84227/SO-9%2BMemori.pdf)**
+   - Modul yang membahas konsep manajemen memori, termasuk alokasi memori, swapping, dan teknik manajemen memori lainnya.
+
+2. **[Pengantar Sistem Operasi - Pertemuan 1](https://repository.dinus.ac.id/docs/ajar/1.-Pengenalan-Sistem-Operasi_.pdf)**
+   - Dokumen yang memberikan gambaran umum tentang sistem operasi, fungsi, dan komponennya.
+
+3. **[GeeksforGeeks: Basics of Operating Systems](https://www.geeksforgeeks.org/basics-of-operating-systems/)**
+   - Artikel yang membahas dasar-dasar sistem operasi, termasuk tipe-tipe OS dan peran mereka dalam komputer.
+
+4. **[Guru99: Operating System Tutorial for Beginners](https://www.guru99.com/operating-system-tutorial.html)**
+   - Panduan sistem operasi untuk pemula yang mencakup komponen dan tipe-tipe sistem operasi secara rinci.
+
+5. **[Operating System - javatpoint](https://www.javatpoint.com/operating-system-tutorial)**
+   - Tutorial yang menyajikan konsep-konsep dasar sistem operasi seperti manajemen proses, manajemen memori, dan sistem file.
